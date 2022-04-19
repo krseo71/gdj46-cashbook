@@ -3,6 +3,7 @@
 	<name>cashbook</name>
 	<comment></comment>
 	<projects>
+		<project>mariadb-java-client-3.0.3</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
